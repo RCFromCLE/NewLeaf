@@ -32,7 +32,11 @@ a{
         position: relative;
         top: 30px;
         left: 10px;
-    }   
+    } 
+    .hours{
+        font-size:2vw;
+    }  
+      
 }
 .navbg{
     position: relative;
