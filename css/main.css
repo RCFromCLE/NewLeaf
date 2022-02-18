@@ -162,14 +162,14 @@ footer > ul > li:not(:last-child){
     margin-bottom: 15px;
 }
 #hours-heading{
-    font-size: 2.75vw;
+    font-size: 2.25vw;
 }
 .hours{
     text-align: center;
-    font-size:2.5vw;
+    font-size: 1.5vw;
 }  
 .footer img{
-    width: 30%;
+    width: 35%;
 }
 .copyright{
     font-size: 1vw;
