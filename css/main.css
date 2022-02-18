@@ -18,6 +18,7 @@ a{
 /*Nav starts here*/
 .est2010{
     text-align: center;
+    text-align: -webkit-center; /*safari, chrome*/
     font-size: 1.25rem;
 }
 /*Fix header image and est 2010 when viewing on smaller screens*/
