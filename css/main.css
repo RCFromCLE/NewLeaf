@@ -163,5 +163,5 @@ footer > ul > li:not(:last-child){
     width: 35%;
 }
 .copyright{
-    font-size: 1vw;
+    font-size: .8rem;
 }
