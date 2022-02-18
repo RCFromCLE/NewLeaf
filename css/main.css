@@ -29,7 +29,7 @@ a{
         height: 650px;
     }
     .est2010{
-        font-size:1.75vw;
+        font-size:1.5Rem;
         position: relative;
         top: 30px;
         left: 10px;
@@ -162,11 +162,11 @@ footer > ul > li:not(:last-child){
     margin-bottom: 15px;
 }
 #hours-heading{
-    font-size: 2.25vw;
+    font-size: 1.5rem;
 }
 .hours{
     text-align: center;
-    font-size: 1.5vw;
+    font-size: 1.25Rem;
 }  
 .footer img{
     width: 35%;
