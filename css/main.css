@@ -18,7 +18,7 @@ a{
 /*Nav starts here*/
 .est2010{
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 }
 /*Fix header image and est 2010 when viewing on smaller screens*/
 @media screen and (min-width: 500px){
